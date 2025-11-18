@@ -2,11 +2,11 @@
 <h3 align="center">Senior Full-Stack Engineer • Researcher in Robotics, Control & Power Systems • ML for Science</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Frontend+%26+Full+Stack+Developer;Distributed+Control+%26+Graph+LQR+Researcher;Power+Systems+%26+Real-Time+Estimation;Robotics+%26+Industrial+Automation;ML+for+Science+%26+Bibliometrics;Building+Tools+%7C+Building+Science&center=true&width=300" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Frontend+%26+Full+Stack+Developer;Distributed+Control+%26+Graph+LQR+Researcher;Power+Systems+%26+Real-Time+Estimation;Robotics+%26+Industrial+Automation;ML+for+Science+%26+Bibliometrics;Building+Tools+%7C+Building+Science&center=true&width=900" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jlmayorgaco/jlmayorgaco/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/jlmayorgaco/jlmayorgaco/main/banner.png" alt="Banner" width="50%" />
 </p>
 
 ---
